@@ -1,0 +1,21 @@
+{
+    "short_name": "Wordaily",
+    "name": "Wordaily",
+    "icons": [
+      {
+        "src": "/wordaily-en/images/wordaily_logo_32x32.png",
+        "type": "image/png",
+        "sizes": "32x32"
+      },
+      {
+        "src": "/wordaily-en/images/wordaily_logo_192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ],
+    "start_url": "",
+    "background_color": "#6aaa64",
+    "display": "standalone",
+    "theme_color": "#6aaa64",
+    "description": "A daily word game"
+  }
